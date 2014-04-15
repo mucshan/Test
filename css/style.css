@@ -1,0 +1,39 @@
+
+.avatar{
+    width: 100px;height: 100px;
+    margin: 10px auto 30px;
+    border-radius: 100%;
+    border: 2px solid #aaa;
+    background-size: cover;
+}
+
+.navbar-fixed-bottom{
+	height: 44px;
+	background-color: #F5F5F5;
+}
+
+.navbar-top{
+	height: 44px;
+	background-color: #F5F5F5;
+}
+
+.comp-shaiwawa{
+	background-color: rgba(120,200,16, 1);
+}
+
+.input-shaiwawa:focus{
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(120, 200, 16, 0.6)
+}
+
+.social-logo-icon {
+	width: 60px;
+	height: 60px;
+}
+
+.col-centered{
+    float: none;
+margin-left:auto;
+margin-right:auto;
+width:70%;
+}
+
